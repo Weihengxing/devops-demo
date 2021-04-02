@@ -22,7 +22,7 @@
     <list default="true" id="9dbab7b9-cf0b-4e2b-b75a-1cd8b06c4371" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmd/yce-api/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/yce-api/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/api/gin/server.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/api/ginssss/server.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pkg/api/interface.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/api/interface.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

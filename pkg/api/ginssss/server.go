@@ -1,4 +1,4 @@
-package gin
+package ginssss
 
 import (
 	"github.com/Weihengxing/devops-demo/pkg/api"
@@ -19,7 +19,7 @@ func NewGin() *Gin{
 	return &Gin{route}
 }
 
-func (g *Gin) listen(addr string) {
+func (g *Gin) Listen(addr string) {
 	panic("implement me")
 }
 
